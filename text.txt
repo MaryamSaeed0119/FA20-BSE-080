@@ -1,0 +1,12 @@
+3 functionalities i added in total:
+
+
+1.on click event as we select a card
+->background becomes white
+->the cross appears instead of the menu icon
+->answer of the question appears
+
+2.On clicking the cross button the get removed
+
+3.the card have two inputs qs and answer and add button on entering inputs abd clicking add button a new card is formed 
+
