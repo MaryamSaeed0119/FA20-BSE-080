@@ -10,3 +10,4 @@
 
 3.the card have two inputs qs and answer and add button on entering inputs abd clicking add button a new card is formed 
 
+this is the work i have done for lab exam
